@@ -85,8 +85,8 @@
 /* ************************** */
 @media (max-width: 34em) {
   .heading-primary {
-    font-size: 8rem;
-    line-height: 6.5rem;
+    font-size: 7rem;
+    line-height: 5.5rem;
   }
   p.sub-heding {
     padding: 0;
