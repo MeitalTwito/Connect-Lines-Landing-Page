@@ -79,3 +79,23 @@
     gap: 8rem;
   }
 }
+
+/* ************************** */
+/* BELOW 544px (Phone) */
+/* ************************** */
+@media (max-width: 34em) {
+  .heading-primary {
+    font-size: 8rem;
+    line-height: 6.5rem;
+  }
+  p.sub-heding {
+    padding: 0;
+  }
+  .features {
+    gap: 2.4rem;
+  }
+  h2,
+  p {
+    text-align: center;
+  }
+}
