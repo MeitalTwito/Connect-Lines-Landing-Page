@@ -63,11 +63,15 @@
     font-size: 3.8rem;
   }
   .section-how {
-    background-color: var(--color-main-grey);
-    border-radius: 120px 120px 0 0;
+    border-radius: 60px 60px 0 0;
     margin-top: -19rem;
     padding: 18rem 0 9.6rem 0;
   }
+
+  .section-cta {
+    border-radius: 60px;
+  }
+
   .features {
     column-gap: 10rem;
     row-gap: 5rem;
