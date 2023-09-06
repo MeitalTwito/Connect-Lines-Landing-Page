@@ -102,4 +102,7 @@
   p {
     text-align: center;
   }
+  .intro-img {
+    width: 100%;
+  }
 }
